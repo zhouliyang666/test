@@ -2,3 +2,6 @@
 分支切换完毕之后，在当前（branch1）分支下，我们在文档中添加一句内容，可以随便输入但是一定先不要更改原有内容，一定、一定、一定 ！！！不然一会做合并操作的时候会一点麻
 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 I miss you
+
+
+22222222
